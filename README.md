@@ -1,3 +1,4 @@
 # akademiq
 # akademiq
 # akademikk
+# akademik
